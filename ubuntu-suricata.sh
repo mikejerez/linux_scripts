@@ -1,4 +1,4 @@
-!# bin/bash
+#!/bin/bash
 
 # add the suricata repo
 sudo add-apt-repository ppa:oisf/suricata-stable
